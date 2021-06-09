@@ -1,1 +1,1 @@
-# git-it-done
+# Module 6 Project: Git it Done
