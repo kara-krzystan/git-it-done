@@ -15,10 +15,7 @@ topic, and displays matching projects along with the number of open issues.
 
 ## Project Screenshot
 
-![screenshot](https://github.com/kara-krzystan/git-it-done/blob/master/assets/images/gititdone-screenshot.png)
-
-## Website
-https://kara-krzystan.github.io/git-it-done/
+![screenshot](https://github.com/kara-krzystan/git-it-done/blob/feature/list-issues/assets/images/gititdone-screenshot.png)
 
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)
